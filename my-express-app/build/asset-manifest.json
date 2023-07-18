@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77c20d76.css",
+    "main.js": "/static/js/main.a8cf6ea6.js",
+    "static/media/footer.jpg": "/static/media/footer.ac35c0d47afe52e5047a.jpg",
+    "static/media/pic.jpg": "/static/media/pic.2ce3b4511458ef7a3cee.jpg",
+    "static/media/background_main.jpg": "/static/media/background_main.03342ed9bb1c73cdd384.jpg",
+    "static/media/how2.jpg": "/static/media/how2.275278b55d08c9364d8f.jpg",
+    "static/media/sellers.jpg": "/static/media/sellers.d33bf196870ec35f9b20.jpg",
+    "static/media/how1.jpg": "/static/media/how1.57ee42639aecdf5a5325.jpg",
+    "static/media/buy1.jpg": "/static/media/buy1.8c62fca01ccabd8552ae.jpg",
+    "static/media/buy6.jpg": "/static/media/buy6.02a692fc90cabb57ba82.jpg",
+    "static/media/buy2.jpg": "/static/media/buy2.8371fe89f77f68b7529f.jpg",
+    "static/media/product4.jpg": "/static/media/product4.6325b57edf5a3aa5bb3d.jpg",
+    "static/media/buy5.jpg": "/static/media/buy5.1124f6ee4ccfe6af0c5e.jpg",
+    "static/media/product5.jpg": "/static/media/product5.91a7141ed64e6b96c785.jpg",
+    "static/media/product3.jpg": "/static/media/product3.b842f5bba233516711f1.jpg",
+    "static/media/product2.jpg": "/static/media/product2.229cfd7eee4dd3b33478.jpg",
+    "static/media/product1.jpg": "/static/media/product1.0aa7b7f17d4af7ee4123.jpg",
+    "static/media/buy4.jpg": "/static/media/buy4.8a3b21ed3b6b8130ec4f.jpg",
+    "static/media/product6.jpg": "/static/media/product6.cd9291f138db918d4a26.jpg",
+    "static/media/about3.jpg": "/static/media/about3.6424108a664a51dcfeb3.jpg",
+    "static/media/about1.jpg": "/static/media/about1.196bd9b30b01ad1d24d1.jpg",
+    "static/media/en.png": "/static/media/en.70975fdc556855d84fd4.png",
+    "static/media/meetty.jpg": "/static/media/meetty.afc2b5899ba6aa1b38ab.jpg",
+    "static/media/products.jpg": "/static/media/products.9b5e9ba334a7b0558780.jpg",
+    "static/media/award.png": "/static/media/award.1d36e5438ced8d99d4cd.png",
+    "static/media/about2.jpg": "/static/media/about2.a03bd8460d009fe0a7b2.jpg",
+    "static/media/meetty_logo.png": "/static/media/meetty_logo.0635a981729aafa8a79c.png",
+    "static/media/ua.png": "/static/media/ua.45275b7bd65d605d55d2.png",
+    "index.html": "/index.html",
+    "main.77c20d76.css.map": "/static/css/main.77c20d76.css.map",
+    "main.a8cf6ea6.js.map": "/static/js/main.a8cf6ea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77c20d76.css",
+    "static/js/main.a8cf6ea6.js"
+  ]
+}

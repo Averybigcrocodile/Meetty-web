@@ -1,0 +1,45 @@
+{
+    "link": {
+        "about": "About",
+        "products": "Products",
+        "how": "Process",
+        "buy": "Where to buy",
+        "contacts": "Contacts"
+    },
+    "main": {
+        "text": "THE ART OF CHOCOLATE"
+    },
+    "contacts": {
+        "label": "CONTACTS"
+    },
+    "about": {
+        "label": "ABOUT",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ipsam",
+        "text1": "My name is Dmitry Kolchanov, and I am one of the team members of Meetty, a family chocolate workshop that my brother Alexei and I co-founded in 2014. For Meetty, chocolate is not just a business; it is a true passion and obsession.",
+        "text2": "Our chocolate is bean-to-bar. It is entirely produced in our own workshop. The entire process, from roasting and stone grinding to tempering the chocolate and molding the bars, to packaging, is done by the careful hands of our artisans. Only the finest quality cocoa beans are used in the production. We are the only bean-to-bar producers in Ukraine with an organic certification.",
+        "text3": "In 2020, our dark chocolate with rose and grape won an award at the Academy of Chocolate Awards 2020. We also received a bronze award for our dark chocolate with cheese and dark chocolate with sage and cherry in the same competition.",
+        "text4": "In 2022, our milk chocolate with raspberry received a bronze award from the British Academy of Chocolate."
+    },
+    "products": {
+        "label": "OUR PRODUCTS",
+        "name1": "Black Chocolate 72% with Coconut Milk, Sugar-Free",
+        "name2": "Milk Chocolate with Orange and Almond",
+        "name3": "Milk Chocolate with Coffee and Cinnamon",
+        "name4": "Dark Chocolate 60% with Cranberry",
+        "name5": "Dark Chocolate 60% with Almond",
+        "name6": "Dark Chocolate 60% with Chili Pepper"
+    },
+    "how": {
+        "label": "PROCESS",
+        "text1": "Our mission is to carefully select the finest varieties of cocoa beans to create unparalleled chocolate with a unique taste and aroma. We pay attention to every detail, ensuring quality from start to finish.",
+        "text2": "For us, chocolate making is a creative process where we use natural ingredients and advanced technologies. By controlling each stage of chocolate creation, we aim to preserve its natural flavor and aroma.",
+        "text3": "Special emphasis is placed on the complete control of every production stage. From the initial processing of the beans to the packaging of the final product, we guarantee that each chocolate bar has a flawless taste and texture.",
+        "text4": "Our attention to detail extends to packaging and design. We take pride in collaborating with talented Ukrainian artists who provide our chocolate with an authentic design. Each wrapper adds elegance and a special charm to our products."
+    },
+    "sellers": {
+        "label": "SELLERS",
+        "text": "You can buy our products at the following addresses or the addresses of our distributors:",
+        "adress": "Meetty cafe, Soborna street, 31, Kremenchuk, Poltavska obl., 39600"
+    }
+
+}
